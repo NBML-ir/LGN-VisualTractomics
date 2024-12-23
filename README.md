@@ -1,7 +1,7 @@
 
-# Visual Pathway Analysis in MS, NMO, and HC Groups
+# Visual Pathway Analysis
 
-This repository contains code, scripts, and documentation for a project focusing on structural, diffusion-weighted imaging (DWI), and functional MRI (fMRI) data preprocessing, feature extraction, and classification of participants into three groups: Multiple Sclerosis (MS), Neuromyelitis Optica (NMO), and Healthy Controls (HC). The primary regions of interest are the **Lateral Geniculate Nucleus (LGN)** and the **optic tract and radiation**.
+This repository contains code, scripts, and documentation for a project focusing on structural, diffusion-weighted imaging (DWI), and functional MRI (fMRI) data preprocessing, feature extraction. The primary regions of interest are the **Lateral Geniculate Nucleus (LGN)** and the **optic tract and radiation**.
 
 ## Repository Structure
 
